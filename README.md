@@ -1,4 +1,4 @@
-Project Description: Telecom Churn Analysis and Prediction
+![Figure_1](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/aba2099a-9ab5-4096-8bac-4d6e61ba60f4)Project Description: Telecom Churn Analysis and Prediction
 
 Telecom companies face the challenge of retaining customers, as churn significantly impacts business performance. This project aims to analyze a telecom churn dataset to understand factors contributing to churn and develop predictive models to identify customers at risk of churning. By uncovering insights and implementing targeted strategies, the telecom company can improve customer retention and business outcomes. Aims to provide actionable insights and predictive models to help the telecom company reduce churn, retain valuable customers, and drive sustainable growth.
 
@@ -10,9 +10,21 @@ Data Exploration and Preprocessing:
 Exploratory Data Analysis (EDA):
   Visualize distributions and correlations of features with churn.
   Identify cohorts with high revenue generation and low churn rates.
-  ![Figure_1](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/19713a34-7827-4611-a2ff-608b405ff8be)![Figure_3](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/50370752-0321-4cff-be3![Figure_2](https://github.com![Figure_5](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/396328b4-9f9d-4ec9-a7b6-b3ab47cdf796)
-/Kanch-prog/Customer_Churn/assets/121807277/7e854efe-2f0d-4a5a-9622-d3482c1569fd)
-c-50924b112c2b)
+
+  ![Figure_1](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/8fe2d585-7381-4912-beb7-e52160d10022)
+  
+![Figure_2](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/84e2b12a-86df-4df2-abf1-9c1d73de298b)
+
+![Figure_3](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/080edcde-e7a7-46d9-8da5-e7122c219fc8)
+
+![Figure_5](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/a1d1b6a0-f63a-4b7c-8955-e6cacb3e8912)
+
+
+
+
+
+
+  
 Model Development:
   Build predictive models, starting with logistic regression, to forecast churn.
   Utilize standard scaling and one-hot encoding for model compatibility.
