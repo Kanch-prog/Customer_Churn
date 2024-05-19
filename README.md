@@ -1,4 +1,4 @@
-![Figure_1](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/aba2099a-9ab5-4096-8bac-4d6e61ba60f4)Project Description: Telecom Churn Analysis and Prediction
+Project Description: Telecom Churn Analysis and Prediction
 
 Telecom companies face the challenge of retaining customers, as churn significantly impacts business performance. This project aims to analyze a telecom churn dataset to understand factors contributing to churn and develop predictive models to identify customers at risk of churning. By uncovering insights and implementing targeted strategies, the telecom company can improve customer retention and business outcomes. Aims to provide actionable insights and predictive models to help the telecom company reduce churn, retain valuable customers, and drive sustainable growth.
 
@@ -18,12 +18,6 @@ Exploratory Data Analysis (EDA):
 ![Figure_3](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/080edcde-e7a7-46d9-8da5-e7122c219fc8)
 
 ![Figure_5](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/a1d1b6a0-f63a-4b7c-8955-e6cacb3e8912)
-
-
-
-
-
-
   
 Model Development:
   Build predictive models, starting with logistic regression, to forecast churn.
@@ -32,7 +26,6 @@ Model Evaluation:
   Assess model performance using accuracy, precision, recall, F1-score, and ROC AUC.
 
 ![Capture1](https://github.com/Kanch-prog/Customer_Churn/assets/121807277/8a43753c-ec5d-4e37-bc75-58fdc583f5bc)
-
   
 Tools and Technologies:
   Python programming language with libraries including Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
