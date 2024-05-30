@@ -30,10 +30,6 @@ The dataset used for analysis is sourced from Kaggle's Telecom Churn Datasets [h
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the analysis scripts in your preferred Python environment.
 
-## Contributors
-- [John Doe](https://github.com/johndoe)
-- [Jane Smith](https://github.com/janesmith)
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
